@@ -1,0 +1,30 @@
+.clock{
+  width: 200px;
+  height: 200px;
+  background-color: gray;
+  border-radius: 100px;
+
+  position: relative; /* why?? try out absolute positioning too */
+
+}
+
+.hand{
+  width: 2px;
+  position: absolute;
+  height: 40px;
+  background-color: black;
+
+  bottom: 99px;
+  left: 99px;
+  /* transform: rotate(90deg); */
+  transform-origin: 50% 100%;
+}
+
+.minute{
+  height: 75px;
+}
+
+.second{
+  height: 90px;
+  background-color: red;
+}
