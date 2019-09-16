@@ -29,3 +29,6 @@ DOM manipulation using document.querySelector
 Animations using requestAnimationFrame()
 
 Date() method to get current date
+
+
+Created using a tutorial by SuperHi, https://www.superhi.com/video/how-to-make-a-clock-with-javascript
