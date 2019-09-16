@@ -7,6 +7,7 @@ Topics learned and/or reinforced by this project
 
 <br>
 HTML:
+<br>
 
 Divs and class names
 
@@ -15,6 +16,7 @@ Attaching external CSS and JavaScript files to HTML
 
 <br>
 CSS:
+<br>
 
 Absolute vs relative positioning
 
@@ -23,6 +25,7 @@ Changing height, width, and border radius of an HTML object
 
 <br>
 JavaScript:
+<br>
 
 CSS manipulation via JavaScript (style.transform)
 
@@ -36,4 +39,4 @@ Date() method to get current date
 
 
 <br>
-Created using a tutorial by [SuperHi] (https://www.superhi.com/video/how-to-make-a-clock-with-javascript)
+Created using a tutorial by [SuperHi](https://www.superhi.com/video/how-to-make-a-clock-with-javascript)
