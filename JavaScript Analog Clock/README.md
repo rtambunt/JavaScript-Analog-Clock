@@ -1,36 +1,48 @@
 A simple clock made using only HTML, CSS, and Javascript
+<br  />
 
-Topics learned and/or reinforced by this project
+**Topics learned and/or reinforced by this project**  
+------------
+<br  />
 
+__*HTML:*__
 
-HTML:   
+<ul>
+ <li>Divs and class names</li>
 
-Divs and class names
+ <li>Attaching external CSS and JavaScript files to HTML</li>
+</ul>
+<br  />
 
-Attaching external CSS and JavaScript files to HTML
+__*CSS:*__
 
+<ul>
+  <li>Absolute vs relative positioning</li>
 
+ <li>Changing height, width, and border radius of an HTML object</li>
+</ul>
+<br  />
 
-CSS:
+__*JavaScript:*__
 
+<ul>
+ <li>CSS manipulation via JavaScript (style.transform)</li>
 
-Absolute vs relative positioning
+ <li>JavaScript functions</li>
 
-Changing height, width, and border radius of an HTML object
+ <li>DOM manipulation using document.querySelector</li>
 
+ <li>Animations using requestAnimationFrame()</li>
 
-JavaScript:
+ <li>Date() method to get current date</li>
+</ul>
+<br  />
 
+__*Misc:*__
 
-CSS manipulation via JavaScript (style.transform)
+<ul>
+  <li>Markdown Syntax</li>
+</ul>
+<br  />
 
-JavaScript functions
-
-DOM manipulation using document.querySelector
-
-Animations using requestAnimationFrame()
-
-Date() method to get current date
-
-
-Created using a tutorial by [SuperHi](https://www.superhi.com/video/how-to-make-a-clock-with-javascript)
+*Created using a tutorial by [SuperHi](https://www.superhi.com/video/how-to-make-a-clock-with-javascript)*
